@@ -1,7 +1,9 @@
-function Aap() {
-    return(
-        <h2>allowance access portal</h2>
-    )
+import React from 'react'
+
+const Aap = (props) => {
+  return (
+    <div>Aap</div>
+  )
 }
 
-export default Aap;
+export default Aap
